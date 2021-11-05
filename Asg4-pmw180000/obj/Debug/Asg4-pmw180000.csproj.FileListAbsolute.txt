@@ -1,0 +1,10 @@
+C:\Users\Dapper\source\repos\Asg4-pmw180000\bin\Debug\Asg4-pmw180000.exe.config
+C:\Users\Dapper\source\repos\Asg4-pmw180000\bin\Debug\Asg4-pmw180000.exe
+C:\Users\Dapper\source\repos\Asg4-pmw180000\bin\Debug\Asg4-pmw180000.pdb
+C:\Users\Dapper\source\repos\Asg4-pmw180000\obj\Debug\Asg4-pmw180000.csproj.AssemblyReference.cache
+C:\Users\Dapper\source\repos\Asg4-pmw180000\obj\Debug\Asg4_pmw180000.Form1.resources
+C:\Users\Dapper\source\repos\Asg4-pmw180000\obj\Debug\Asg4_pmw180000.Properties.Resources.resources
+C:\Users\Dapper\source\repos\Asg4-pmw180000\obj\Debug\Asg4-pmw180000.csproj.GenerateResource.cache
+C:\Users\Dapper\source\repos\Asg4-pmw180000\obj\Debug\Asg4-pmw180000.csproj.CoreCompileInputs.cache
+C:\Users\Dapper\source\repos\Asg4-pmw180000\obj\Debug\Asg4-pmw180000.exe
+C:\Users\Dapper\source\repos\Asg4-pmw180000\obj\Debug\Asg4-pmw180000.pdb
